@@ -1,0 +1,7 @@
+Sent -> NP VP
+NP -> Art Noun
+VP -> Verb NP
+Art -> the | a
+Noun -> cat | milk
+Verb -> drank
+

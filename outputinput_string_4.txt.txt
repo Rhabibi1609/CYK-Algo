@@ -1,0 +1,6 @@
+1
+Art; NP; -; -; Sent
+; Noun; -; -; -
+; ; Verb; -; VP
+; ; ; Art; NP
+; ; ; ; Noun

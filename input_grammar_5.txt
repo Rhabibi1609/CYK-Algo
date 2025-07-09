@@ -1,0 +1,4 @@
+S -> NP VP 
+VP -> V NP 
+V -> eat 
+NP -> we | sushi
