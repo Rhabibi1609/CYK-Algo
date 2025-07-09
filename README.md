@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # CYK Parsing Algorithm Project
 
 ## Overview
@@ -60,5 +59,3 @@ graph TD
 
 
 =======
-# CYK-Algo
->>>>>>> c6a4901c45f70860e1457c793024dfaa621d3493
